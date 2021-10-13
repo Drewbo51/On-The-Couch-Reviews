@@ -1,0 +1,18 @@
+.newSheet3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.altered {
+    height: 30vh;
+}
+
+.roundMe {
+    border-radius: 7px;
+}
+
+.solo {
+    color: white;
+    margin-bottom: 10px;
+}

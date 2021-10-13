@@ -1,0 +1,65 @@
+.flashDivs {
+    display: flex;
+    flex-direction: column;
+    color: #0d6efd;
+}
+
+.flash {
+    width: 100%;
+    height: 270px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+}
+
+.newBox { 
+    flex-basis: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.newBox h1 {
+    margin-top: 111px;
+    text-decoration: underline;
+}
+
+.lilDiv {
+    flex-basis: 33%;  
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+    border: 1px solid #0d6efd;
+    margin-left: 23.21px;
+    margin-right: 23.21px;
+    margin-bottom: 15px;
+}
+
+.lilDiv p {
+
+    flex-basis: 25%;
+    margin: 0 0;
+}
+
+.lilDiv img {
+
+    flex-basis: 75%;
+    margin: 0 0;
+}
+
+.newBox div {
+    flex-basis: 33%;
+    border: 1px solid #0d6efd; 
+}
+
+.newBox h1 {
+    flex-basis: 33%;
+
+}
+
+.lastOne h1 {
+    text-align: center;
+    color: #0d6efd;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
